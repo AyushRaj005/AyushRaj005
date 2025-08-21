@@ -36,9 +36,9 @@
 
 <br clear="both">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/AyushRaj005/AyushRaj005/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/AyushRaj005/AyushRaj005/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ###
